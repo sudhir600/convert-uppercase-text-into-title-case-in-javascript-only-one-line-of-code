@@ -11,6 +11,6 @@
 
 
 -------------------
-My blog -: https://99crashpoint.blogspot.in/text-uppercase-to-titlecase-javascript
+My blog -: https://99crashpoint.blogspot.in/2016/09/convert-all-table-td-data-into.html
 
 
